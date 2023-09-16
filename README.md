@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/commercetools/commercetools-sunrise-data.svg?branch=master)](https://travis-ci.org/commercetools/commercetools-sunrise-data)
 
+## Introduction
 
+This repo is a fork from original repo [commercetools-sunrise-data](https://github.com/commercetools/commercetools-sunrise-data). Fork was made to provide simple and clear way for users/contributors of our project to upload data about products into their our commercetools accout without problems and struggling. 
 
 ## Prerequisites
 
