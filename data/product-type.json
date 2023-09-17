@@ -7,8 +7,6 @@
       {
         "name": "ingredients",
         "label": {
-          "de": "Produktbestandteile",
-          "uk": "Склад продукту",
           "en": "Product ingredients"
         },
         "isRequired": true,
@@ -23,8 +21,6 @@
       {
         "name": "calories",
         "label": {
-          "de": "Produktkalorien",
-          "uk": "Калорійність продукту",
           "en": "Product calories"
         },
         "isRequired": true,
@@ -39,8 +35,6 @@
       {
         "name": "weight",
         "label": {
-          "de": "Produktgewicht",
-          "uk": "Вага продукту",
           "en": "Product weight"
         },
         "isRequired": true,
@@ -55,8 +49,6 @@
       {
         "name": "proteins",
         "label": {
-          "de": "Produktproteine",
-          "uk": "Білки продукту",
           "en": "Product proteins"
         },
         "isRequired": true,
@@ -71,8 +63,6 @@
       {
         "name": "fats",
         "label": {
-          "de": "Produktfette",
-          "uk": "Жири продукту",
           "en": "Product fats"
         },
         "isRequired": true,
@@ -87,8 +77,6 @@
       {
         "name": "carbohydrates",
         "label": {
-          "de": "Produktkohlenhydrate",
-          "uk": "Вуглеводи продукту",
           "en": "Product carbohydrates"
         },
         "isRequired": true,
@@ -103,8 +91,6 @@
       {
         "name": "allergens",
         "label": {
-          "de": "Produktallergene",
-          "uk": "Продуктові алергени",
           "en": "Product allergens"
         },
         "isRequired": false,
@@ -119,8 +105,6 @@
       {
         "name": "isVegan",
         "label": {
-          "uk": "Продукт веганський",
-          "de": "Ist das Produkt vegan?",
           "en": "Is product vegan"
         },
         "isRequired": true,
@@ -135,29 +119,11 @@
       {
         "name": "isSpicy",
         "label": {
-          "uk": "Продукт гострий",
-          "de": "Ist das Produkt scharf?",
           "en": "Is product spicy"
         },
         "isRequired": true,
         "type": {
           "name": "boolean"
-        },
-        "attributeConstraint": "None",
-        "isSearchable": true,
-        "inputHint": "SingleLine",
-        "displayGroup": "Other"
-      },
-      {
-        "name": "discountPrice",
-        "label": {
-          "uk": "Скидка",
-          "de": "reduzierter Preis",
-          "en": "discount price"
-        },
-        "isRequired": false,
-        "type": {
-          "name": "text"
         },
         "attributeConstraint": "None",
         "isSearchable": true,
